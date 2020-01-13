@@ -1,0 +1,10 @@
+[
+   {
+      "Repo":"ML-python-tensorflow-mnist-cpu-service",
+      "Tail":"-service"
+   },
+   {
+      "Repo":"ML-python-tensorflow-mnist-cpu-training",
+      "Tail":"-training"
+   }
+]
